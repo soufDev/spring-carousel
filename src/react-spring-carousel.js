@@ -1,6 +1,6 @@
 import React, { Component } from "react";
 import { withGesture } from "react-with-gesture";
-import { Spring, animated } from "react-spring";
+import { Spring, animated } from 'react-spring/renderprops';
 import debounce from "lodash/debounce";
 
 import LeftArrow from "./assets/arrow-left.png";
